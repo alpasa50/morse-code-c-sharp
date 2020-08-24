@@ -1,0 +1,13 @@
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\bin\Debug\netcoreapp3.1\beep.exe
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\bin\Debug\netcoreapp3.1\beep.deps.json
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\bin\Debug\netcoreapp3.1\beep.runtimeconfig.json
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\bin\Debug\netcoreapp3.1\beep.runtimeconfig.dev.json
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\bin\Debug\netcoreapp3.1\beep.dll
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\bin\Debug\netcoreapp3.1\beep.pdb
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\obj\Debug\netcoreapp3.1\beep.csprojAssemblyReference.cache
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\obj\Debug\netcoreapp3.1\beep.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\obj\Debug\netcoreapp3.1\beep.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\obj\Debug\netcoreapp3.1\beep.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\obj\Debug\netcoreapp3.1\beep.dll
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\obj\Debug\netcoreapp3.1\beep.pdb
+C:\Users\aleja\OneDrive\Desktop\Intec\Programacion 2\C#\Beep\beep\obj\Debug\netcoreapp3.1\beep.genruntimeconfig.cache
